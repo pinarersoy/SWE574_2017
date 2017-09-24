@@ -1,2 +1,2 @@
 # SWE574_2017
-Living_History
+Living History - A Crowdsourcing Platform
